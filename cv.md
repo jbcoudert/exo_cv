@@ -12,11 +12,11 @@
 ##  
 ##  
   
-ETE 2014 
- Animateur de colonies de vacances , Balsieges
-### ETE 2015 
-#### Manutentionnaire à Magne , Mende
-### ETE 2016 
-#### Plonge Hôpital de Mende
-### ETE 2017 - 2018 - 2019 
- Livreur promocash , Mende
+* ETE 2014 
+    * Animateur de colonies de vacances , Balsieges
+* ETE 2015 
+    * Manutentionnaire à Magne , Mende
+* ETE 2016 
+    * Plonge Hôpital de Mende
+* ETE 2017 - 2018 - 2019 
+    * Livreur promocash , Mende
